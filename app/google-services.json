@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622237094705",
+    "firebase_url": "https://domi-learn-17456.firebaseio.com",
+    "project_id": "domi-learn-17456",
+    "storage_bucket": "domi-learn-17456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622237094705:android:f85d47289a934f78",
+        "android_client_info": {
+          "package_name": "com.example.meet.applicationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622237094705-h5rtrsolj6v15m7tgehllpiq81vs5o0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHoEywwTpRebQJmwTsR84KsfC71ARHFI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
